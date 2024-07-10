@@ -345,11 +345,11 @@ focusing on both demand and compensation.
 
 # What I learned
 
-🧩 Complex Query Crafting: Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+🧩 Complex Query Crafting: Practiced some advanced SQL, merging tables and wielding WITH clauses.
 
-📊 Data Aggregation: Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+📊 Data Aggregation: Got familiar with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 
-💡 Analytical Wizardry: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+💡 Analytical Thinking: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
 # Conclusions
 
