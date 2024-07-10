@@ -27,6 +27,31 @@ ORDER BY
 LIMIT 10
 
 /*
+Here are three key insights from the dataset on the top 10 paying jobs for data analysts in 
+the Bay Area, California:
+
+1. Top Paying Job:
+
+  - The highest paying job for a data analyst in the dataset is at Anthropic, with a salary of 
+$350,000 per year for the position of "Data Analyst" in San Francisco, CA.
+
+2. Prevalence of High-Paying Companies:
+
+  - Anthropic and TikTok are prominent in offering high-paying data analyst roles. 
+    Anthropic has two top-paying positions, and TikTok has three. This indicates these companies are 
+    investing significantly in high compensation for data analysts.
+
+3. Location Concentration:
+
+  - The majority of these high-paying jobs are concentrated in San Francisco, CA, with eight out 
+    of the ten positions located there. San Jose, CA, also features prominently with three roles, 
+    indicating these cities are key hubs for high-paying data analyst positions in the Bay Area.
+
+These insights highlight the companies and locations that offer the most lucrative opportunities for 
+data analysts in the Bay Area.
+*/
+
+/*
 [
   {
     "job_id": 1059665,
