@@ -1,14 +1,14 @@
 # Introduction
-Dive into the data job market :-) Focusing on data analyst job roles, this project explores top-paying jobs, in-demand skills, and where high demand meets jhigh salary in data analytics.
+Dive into the data job market 🤓 Focusing on data analyst job roles, this project explores top-paying jobs, in-demand skills, and where high demand meets jhigh salary in data analytics.
 
-SQL queries? Check them out here: [project_sql folder](/project_sql/)
+SQL queries? 📊 Check them out here: [project_sql folder](/project_sql/)
 
-Kudos to Luke Barousse for the cool SQL course on YouTube: [SQL for Data Analytics](https://www.youtube.com/watch?v=7mz73uXD9DA)
+Thanks to Luke Barousse for the cool SQL course on YouTube: [SQL for Data Analytics](https://www.youtube.com/watch?v=7mz73uXD9DA)
 
 # Background
 Driven by a quest to navigate the Data Analyst job market more effectively, this mini project aims to pinpoint top-paid and in-demand skills, streamlining other work to find optimal jobs.
 ### The questions I wanted to answer
-1. What are teh top-paying data analyst roles?
+1. What are the top-paying data analyst roles?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for Data Analysts?
 4. Which skills are associated with higher salaries?
@@ -329,13 +329,13 @@ Notice that we set the condition `demand_count > 50` in the `WHERE` statement ab
 
 Key insights from the dataset on the most in-demand and high-paying jobs for data analysts:
 
-1. Most In-Demand Skills:
+1. **Most In-Demand Skills**:
     - SQL is the most in-demand skill, with a demand count of 567.
     - Tableau and Python follow, with demand counts of 337 and 328, respectively.   
-2. Highest Paying Skills:
+2. **Highest Paying Skills**:
     - Snowflake has the highest average salary at $115,597.30.
     - Looker and Oracle follow with average salaries of $112,927.60 and $107,585.30, respectively.
-3. Popular and Well-Paid:
+3. **Popular and Well-Paid** 🔥:
     - Python and Tableau are both highly in-demand and offer relatively high salaries, 
         making them attractive options for data analysts. Python has an average salary 
         of $106,770.90, while Tableau has an average salary of $103,820.60.
@@ -370,4 +370,4 @@ From the analysis, several general insights emerged:
     - Tableau (demand count of 337 and average salary of $103,820.6) and 
     - Python (demand count of 328 and average salary of $106,770)
 
-The End :-)
+The End 🤓
