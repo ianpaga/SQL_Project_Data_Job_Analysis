@@ -284,7 +284,7 @@ INNER JOIN average_salary ON skills_demand.skill_id = average_salary.skill_id
 WHERE
     demand_count > 50
 ORDER BY
-    avg_salary DESC, -- in two values are equal move order by this
+    avg_salary DESC, -- if two values are equal do order like this
     demand_count DESC 
 LIMIT 25
 ```
