@@ -54,6 +54,106 @@ ORDER BY
     demand_count DESC 
 LIMIT 25
 
+/*
+Key insights from the dataset on the most in-demand and high-paying jobs for data analysts:
+
+1. Most In-Demand Skills:
+    - SQL is the most in-demand skill, with a demand count of 567.
+    - Tableau and Python follow, with demand counts of 337 and 328, respectively.   
+2. Highest Paying Skills:
+    - Snowflake has the highest average salary at $115,597.30.
+    - Looker and Oracle follow with average salaries of $112,927.60 and $107,585.30, respectively.
+3. Popular and Well-Paid:
+    - Python and Tableau are both highly in-demand and offer relatively high salaries, 
+        making them attractive options for data analysts. Python has an average salary 
+        of $106,770.90, while Tableau has an average salary of $103,820.60.
+
+These insights highlight the importance of certain skills in the job market for data analysts, focusing on both demand and compensation.
+*/
+
+/*
+[
+  {
+    "skill_id": 80,
+    "skills": "snowflake",
+    "demand_count": "64",
+    "avg_salary": "115597.3"
+  },
+  {
+    "skill_id": 185,
+    "skills": "looker",
+    "demand_count": "86",
+    "avg_salary": "112927.6"
+  },
+  {
+    "skill_id": 79,
+    "skills": "oracle",
+    "demand_count": "53",
+    "avg_salary": "107585.3"
+  },
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "328",
+    "avg_salary": "106770.9"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "197",
+    "avg_salary": "104688.3"
+  },
+  {
+    "skill_id": 182,
+    "skills": "tableau",
+    "demand_count": "337",
+    "avg_salary": "103820.6"
+  },
+  {
+    "skill_id": 186,
+    "skills": "sas",
+    "demand_count": "89",
+    "avg_salary": "101948.6"
+  },
+  {
+    "skill_id": 7,
+    "skills": "sas",
+    "demand_count": "89",
+    "avg_salary": "101948.6"
+  },
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "567",
+    "avg_salary": "101714.9"
+  },
+  {
+    "skill_id": 183,
+    "skills": "power bi",
+    "demand_count": "153",
+    "avg_salary": "99673.1"
+  },
+  {
+    "skill_id": 196,
+    "skills": "powerpoint",
+    "demand_count": "77",
+    "avg_salary": "90966.4"
+  },
+  {
+    "skill_id": 181,
+    "skills": "excel",
+    "demand_count": "335",
+    "avg_salary": "90369.5"
+  },
+  {
+    "skill_id": 188,
+    "skills": "word",
+    "demand_count": "64",
+    "avg_salary": "87105.7"
+  }
+]
+*/
+
 
 
 
