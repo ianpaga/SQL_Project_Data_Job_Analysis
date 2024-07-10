@@ -68,7 +68,8 @@ Key insights from the dataset on the most in-demand and high-paying jobs for dat
         making them attractive options for data analysts. Python has an average salary 
         of $106,770.90, while Tableau has an average salary of $103,820.60.
 
-These insights highlight the importance of certain skills in the job market for data analysts, focusing on both demand and compensation.
+These insights highlight the importance of certain skills in the job market for data analysts, 
+focusing on both demand and compensation.
 */
 
 /*
